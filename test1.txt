@@ -1,1 +1,6 @@
+<<<<<<< HEAD
 section 1
+=======
+
+section 2
+>>>>>>> feature-test
